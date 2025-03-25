@@ -6,3 +6,4 @@ Logistic Regression
 K-Means Clustering
 K Nearest Neighbours
 SVM
+Decision Tree
