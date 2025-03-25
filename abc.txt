@@ -4,3 +4,4 @@ Lets learn some concepts of Machine Learning.
 Linear Regression
 Logistic Regression
 K-Means Clustering
+K Nearest Neighbours
